@@ -1,0 +1,13 @@
+#firestead
+_firestead
+.firestead.env.json
+
+#nuxt
+.nuxt
+nuxt.d.ts
+.output
+.env
+
+#general
+node_modules
+*.log

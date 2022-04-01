@@ -1,0 +1,13 @@
+{
+    "private": true,
+    "scripts": {
+      "dev": "firestead dev",
+      "build": "firestead build",
+      "deploy": "firestead deploy"
+    },
+    "devDependencies": {
+      "firestead": "latest",
+      "@firestead/nuxt": "latest",
+      "@firestead/console": "latest"
+    }
+  }
